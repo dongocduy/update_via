@@ -47,8 +47,7 @@ def main():
                     config = json.loads(file.read())
                     file.close()
                 for key, value in custom_config.items():
-                    if not config["remoteData"]["definitions"].get(key):
-                        config["remoteData"]["definitions"][key] = value
+                    config["remoteData"]["definitions"][key] = value
                 if os.path.isfile(f'{via_path}.bk'):
                     os.remove(f'{via_path}.bk')
                 shutil.copyfile(via_path, f'{via_path}.bk')
