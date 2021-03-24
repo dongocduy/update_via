@@ -1,10 +1,7 @@
 {
   "3991756899": {
     "name": "MJ63 V1",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 15,
       "height": 5,
@@ -776,10 +773,7 @@
   },
   "1146380384": {
     "name": "DO60",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 15,
       "height": 5,
@@ -1671,10 +1665,7 @@
   },
   "4276951189": {
     "name": "Freyr",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 18.25,
       "height": 6.25,
@@ -2782,10 +2773,7 @@
   },
   "1145910582": {
     "name": "Dactyl Manuform (5x6)",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 17,
       "height": 8,
@@ -3569,10 +3557,7 @@
   },
   "2886812021": {
     "name": "Acheron Austin",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "labels": [
         "Split Backspace",
@@ -5277,10 +5262,7 @@
   },
   "1498239844": {
     "name": "Sp64",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 16,
       "height": 5,
@@ -6088,10 +6070,7 @@
   },
   "4044419344": {
     "name": "hp4h_B",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 4,
       "height": 6,
@@ -6395,10 +6374,7 @@
   },
   "2017756292": {
     "name": "XD84",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 16,
       "height": 6,
@@ -7422,10 +7398,7 @@
   },
   "4294901758": {
     "name": "ATL1800",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 20.5,
       "height": 6.25,
@@ -8653,10 +8626,7 @@
   },
   "1145784902": {
     "name": "jetfire",
-    "lighting": {
-      "extends": "none",
-      "keycodes": "qmk"
-    },
+    "lighting": "qmk_rgblight",
     "layouts": {
       "width": 21,
       "height": 6.5,
