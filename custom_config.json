@@ -1,7 +1,7 @@
 {
   "3991756899": {
     "name": "MJ63 V1",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 15,
       "height": 5,
@@ -773,7 +773,7 @@
   },
   "1146380384": {
     "name": "DO60",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 15,
       "height": 5,
@@ -1665,7 +1665,7 @@
   },
   "4276951189": {
     "name": "Freyr",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 18.25,
       "height": 6.25,
@@ -2773,7 +2773,7 @@
   },
   "1145910582": {
     "name": "Dactyl Manuform (5x6)",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 17,
       "height": 8,
@@ -3557,7 +3557,7 @@
   },
   "2886812021": {
     "name": "Acheron Austin",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "labels": [
         "Split Backspace",
@@ -5262,7 +5262,7 @@
   },
   "1498239844": {
     "name": "Sp64",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 16,
       "height": 5,
@@ -6070,7 +6070,7 @@
   },
   "4044419344": {
     "name": "hp4h_B",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 4,
       "height": 6,
@@ -6374,7 +6374,7 @@
   },
   "2017756292": {
     "name": "XD84",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 16,
       "height": 6,
@@ -7398,7 +7398,7 @@
   },
   "4294901758": {
     "name": "ATL1800",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 20.5,
       "height": 6.25,
@@ -8626,7 +8626,7 @@
   },
   "1145784902": {
     "name": "jetfire",
-    "lighting": "qmk_rgblight",
+    "lighting": "qmk_backlight_rgblight",
     "layouts": {
       "width": 21,
       "height": 6.5,
